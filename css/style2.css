@@ -237,8 +237,8 @@ li img {
 }
 .GS:nth-child(8) {
   /* пригородный */
-  left: 920px;
-  top: 710px;
+    left: 920px;
+    top: 697px;
 }
 .GS:nth-child(9) {
   /* владикавказ */
@@ -400,8 +400,8 @@ li img {
 
 .ACmark:nth-child(1) {
   /* моздокский */
-  left: 865px;
-  top: 145px;
+    left: 865px;
+    top: 137px;
 }
 .ACmark:nth-child(2) {
   /* кировский */
@@ -415,28 +415,28 @@ li img {
 }
 .ACmark:nth-child(4) {
   /* ирафский */
-  left: 375px;
-  top: 590px;
+    left: 375px;
+    top: 581px;
 }
 .ACmark:nth-child(5) {
   /* дигорский */
-  left: 500px;
-  top: 545px;
+    left: 524px;
+    top: 558px;
 }
 .ACmark:nth-child(6) {
   /* ардонский */
-  left: 610px;
-  top: 620px;
+    left: 610px;
+    top: 613px;
 }
 .ACmark:nth-child(7) {
   /*алагирский */
-  left: 549px;
-  top: 678px;
+    left: 549px;
+    top: 670px;
 }
 .ACmark:nth-child(8) {
   /* пригородный */
-  left: 883px;
-  top: 737px;
+    left: 883px;
+    top: 727px;
 }
 .ACmark:nth-child(9) {
   /* владикавказ */
