@@ -229,8 +229,8 @@ li img {
   top: 107px;
 }
 .SR:nth-child(2) {
-  left: 473px;
-  top: 199px;
+    left: 483px;
+    top: 213px;
 }
 .SR:nth-child(3) {
   left: 489px;
@@ -276,8 +276,8 @@ li img {
   top: 204px;
 }
 .GS:nth-child(5) {
-  left: 503px;
-  top: 233px;
+    left: 503px;
+    top: 250px;
 }
 .GS:nth-child(6) {
   left: 528px;
@@ -310,8 +310,8 @@ li img {
 }
 
 .S:nth-child(2) {
-  left: 485px;
-  top: 158px;
+    left: 492px;
+    top: 158px;
 }
 /* .S:nth-child(3) {
   top: 239px;
