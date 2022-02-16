@@ -303,19 +303,20 @@ li img {
   left: 459px;
   top: 224px;
 }
-/* 
+
 .S:nth-child(1) {
   left: 400px;
   top: 234px;
-} */
-.S:nth-child(1) {
+}
+
+.S:nth-child(2) {
   left: 485px;
   top: 158px;
 }
-.S:nth-child(2) {
+/* .S:nth-child(3) {
   top: 239px;
   left: 156px;
-}
+} */
 
 .DS:nth-child(1) {
   left: 370px;
