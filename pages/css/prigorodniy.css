@@ -321,3 +321,12 @@ li img {
   left: 297px;
   top: 350px;
 }
+.SR:nth-child(9) {
+  left: 455px;
+  top: 179px;
+}
+
+.SR:nth-child(10) {
+  left: 270px;
+  top: 287px;
+}
