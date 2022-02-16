@@ -195,14 +195,14 @@ li img {
 
 .acg {
   position: absolute;
-  top: 298px;
-  left: 273px;
+    top: 292px;
+    left: 275px;
   font-size: 15pt;
 }
 .circle {
   position: absolute;
-  left: 258px;
-  top: 305px;
+    left: 264px;
+    top: 305px;
   background: #131313;
   border-radius: 50%;
   height: 5px;
