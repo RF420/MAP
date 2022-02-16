@@ -153,9 +153,46 @@ li img {
   height: 40px;
   width: 100px;
   border-radius: 15px;
-  background-color: #f3c372;
+  background-color: #f2cfa4;
   opacity: 0%;
 }
+
+.yf {
+  display: flex;
+  flex-direction: row;
+}
+.yt {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  margin-top: 30px;
+}
+
+.yt span {
+  font-size: 15pt;
+  position: relative;
+  left: 40px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.yearfilter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 50px;
+  background-color: #f2cfa4;
+  border-style: hidden;
+  margin: 10px;
+  cursor: pointer;
+  border-radius: 20px;
+  font-size: 20pt;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
 .acg {
   position: absolute;
   top: 298px;
